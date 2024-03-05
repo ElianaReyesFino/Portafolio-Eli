@@ -17,20 +17,20 @@ const projectsData = [
   {
     id: 2,
     title: "Personal Portfolio Website",
-    description: "Crafted with React and Node.js, my personal portfolio project seamlessly merges dynamic front-end design with powerful back-end functionality. Showcasing my skills and projects, it offers an interactive platform for visitors to explore my work and get to know me better.",
+    description: "Crafted with React and Node.js, my personal portfolio project seamlessly merges dynamic front-end design. Showcasing my skills and projects, it offers an interactive platform for visitors to explore my work and get to know me better.",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/ElianaReyesFino/Portafolio-Eli.git",
+    previewUrl: "https://portafolio-eli.vercel.app/",
   },
   {
     id: 3,
-    title: "E-commerce LandingPage",
-    description: "Project 3 description",
+    title: "Glowverse Cosmetics",
+    description: "Landing page for GlowVerse Cosmetics, a beauty brand that is distinguished not only by its exceptional quality but also by its vibrant community. HTML, CSS and Bootstrap were used in the development of the website. Our goal was to create an online experience that reflected the delicacy and sophistication of our products.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/ElianaReyesFino/Glow-verse-Cosmetic.git",
+    previewUrl: "https://glow-verse-cosmetic.vercel.app/",
   },
   
   
